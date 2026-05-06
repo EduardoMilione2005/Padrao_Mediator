@@ -1,1 +1,0 @@
-# Padrao_Mediator
